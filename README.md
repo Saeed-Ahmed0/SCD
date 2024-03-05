@@ -1,6 +1,5 @@
 # Solution4U - Responsive Website Project
 
-![Solution4U](solution4u-screenshot.png)
 
 ## Description
 This project aims to develop a responsive website with a modern and visually appealing design. The website features a dynamic navbar with a hamburger menu icon for smaller screens, smooth scrolling behavior for anchor links, and various sections including home, about us, services, clients, team, and contact us.
@@ -31,11 +30,3 @@ The objective of this website is to provide a user-friendly experience for visit
 - CSS
 - JavaScript
 - jQuery
-
-## GitHub Repository
-[![Solution4U GitHub](https://github.com/your-username/solution4u/raw/main/github-screenshot.png)](https://github.com/your-username/solution4u)
-
-[![GitHub](https://github.com/your-username/your-repository-name/raw/main/github-screenshot.png)](https://github.com/your-username/your-repository-name)
-
-## License
-This project is licensed under the [MIT License](LICENSE).
