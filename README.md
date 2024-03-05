@@ -33,7 +33,9 @@ The objective of this website is to provide a user-friendly experience for visit
 - jQuery
 
 ## GitHub Repository
-![GitHub](https://github.com/your-username/your-repository-name/raw/main/github-screenshot.png)
+[![Solution4U GitHub](https://github.com/your-username/solution4u/raw/main/github-screenshot.png)](https://github.com/your-username/solution4u)
+
+[![GitHub](https://github.com/your-username/your-repository-name/raw/main/github-screenshot.png)](https://github.com/your-username/your-repository-name)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
